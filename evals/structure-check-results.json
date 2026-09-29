@@ -1,0 +1,117 @@
+{
+  "scope": "package_structure_only",
+  "passed": true,
+  "check_count": 22,
+  "checks": [
+    {
+      "check": "required_files",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "utf8_without_bom",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "frontmatter_delimiters",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "name_matches_folder",
+      "passed": true,
+      "detail": "engineering-bridge"
+    },
+    {
+      "check": "description_1_to_1024",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "semantic_version_present",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "main_under_500_lines",
+      "passed": true,
+      "detail": "175"
+    },
+    {
+      "check": "core_contract_terms",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "discovery_phase_order",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "discovery_branch_states_present",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "default_prompt_keeps_gate",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "document_version_consistency",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "no_symlinks",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "all_markdown_utf8",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "relative_links_resolve_inside_package",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "eval_case_schema",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "eval_version_consistency",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "eval_ids_unique",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "discovery_eval_coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "positive_and_near_negative_cases",
+      "passed": true,
+      "detail": "positive=29, negative=3"
+    },
+    {
+      "check": "eval_execution_status_honest",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "python_syntax",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}
