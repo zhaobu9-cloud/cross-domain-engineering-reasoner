@@ -1,0 +1,19 @@
+test_bad_skill_name (__main__.PackageCheckerTests.test_bad_skill_name) ... ok
+test_broken_link (__main__.PackageCheckerTests.test_broken_link) ... ok
+test_claimed_model_execution (__main__.PackageCheckerTests.test_claimed_model_execution) ... ok
+test_cross_before_local (__main__.PackageCheckerTests.test_cross_before_local) ... ok
+test_default_prompt_skips_gate (__main__.PackageCheckerTests.test_default_prompt_skips_gate) ... ok
+test_duplicate_eval_id (__main__.PackageCheckerTests.test_duplicate_eval_id) ... ok
+test_empty_description (__main__.PackageCheckerTests.test_empty_description) ... ok
+test_good_package (__main__.PackageCheckerTests.test_good_package) ... ok
+test_inconsistent_eval_version (__main__.PackageCheckerTests.test_inconsistent_eval_version) ... ok
+test_managed_skill_directory (__main__.PackageCheckerTests.test_managed_skill_directory) ... ok
+test_missing_discovery_reference (__main__.PackageCheckerTests.test_missing_discovery_reference) ... ok
+test_missing_second_search (__main__.PackageCheckerTests.test_missing_second_search) ... ok
+test_path_outside_package (__main__.PackageCheckerTests.test_path_outside_package) ... ok
+test_unrelated_directory_name (__main__.PackageCheckerTests.test_unrelated_directory_name) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.082s
+
+OK
